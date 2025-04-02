@@ -25,7 +25,7 @@ Si desea ver el proyecto, puede visitarlo en el siguiente enlace: https://konstr
 
 ## 📝 Licencia
 
-Este proyecto preview está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## 📝 Autor
 
