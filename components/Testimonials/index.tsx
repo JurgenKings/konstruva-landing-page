@@ -33,11 +33,11 @@ function Testimonials(): React.ReactElement {
               <Card className="p-8 bg-gray-800/80 backdrop-blur-sm border-0">
                 <div className="flex items-center gap-4 mb-6">
                   <Avatar className="h-16 w-16 ring-2 ring-blue-400">
-                    <AvatarImage src={testimonial.image} />
+                    <AvatarImage src={testimonial.image} alt={testimonial.name} />
                     <AvatarFallback>{testimonial.name[0]}</AvatarFallback>
                   </Avatar>
                   <div>
-                    <h4 className="text-xl font-semibold gradient-text">{testimonial.name}</h4>
+                    <h3 className="text-xl font-semibold gradient-text">{testimonial.name}</h3>
                     <p className="text-gray-300">{testimonial.role}</p>
                   </div>
                 </div>
