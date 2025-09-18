@@ -1,32 +1,49 @@
-# ESTO ES LA LANDING PAGE DEL SISTEMA SASS KONSTRUVA
+# 🏗️ Konstruva — Landing Page
 
-## 📌 Descripción
+## 📌 Description
+This is the **landing page** for **Konstruva**, a fictional SaaS platform for construction project management.  
+⚠️ *Note: Konstruva is not a real product. This project was built only as a frontend landing page (no backend functionality).*  
 
-Esta es la landing page del sistema SASS KONSTRUVA, una plataforma para la gestión de proyectos de construcción.
+---
 
-## 📌 Live Demo
+## 🌍 Live Demo
+Check out the project here:  
+👉 [konstruva-landing-page.vercel.app](https://konstruva-landing-page.vercel.app)  
 
-Si desea ver el proyecto, puede visitarlo en el siguiente enlace: https://konstruva-landing-page.vercel.app 
+---
 
-## 🚀 Tecnologías Usadas
+## 🚀 Tech Stack
+- **Framework:** Next.js (TypeScript)  
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion  
+- **UI Components:** Shadcn UI  
 
-- Next.js 
-- Tailwind CSS
-- TypeScript
-- Motion
-- ShadCN UI
+---
 
-## 📝 Instrucciones
+## 🛠️ Setup Instructions
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/JurgenKings/konstruva-landing-page.git
 
-1. Clonar el repositorio
-2. Instalar dependencias
-3. Ejecutar el proyecto
-4. Acceder a la aplicación en http://localhost:3000 en tu navegador
+2. Install dependencies
+   ```bash
+   npm install
 
-## 📝 Licencia
+3. Run the development server
+   ```bash
+   npm run dev
 
-Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+4. Open http://localhost:3000 in your browser
 
-## 📝 Autor
+---
 
-[Jurgen Kings](https://jurgenkings.com)
+## 📝 License
+This preview project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for more details.  
+
+---
+
+## 👨‍💻 Author
+**Jurgen Kings (Jorge Reyes)**  
+🌐 [jurgenkings.com](https://jurgenkings.com)  
+📧 jorgereyes@jurgenkings.com  
