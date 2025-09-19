@@ -2,7 +2,7 @@
 
 ## 📌 Description
 This is the **landing page** for **Konstruva**, a fictional SaaS platform for construction project management.  
-⚠️ *Note: Konstruva is not a real product. This project was built only as a frontend landing page (no backend functionality).*  ..
+⚠️ *Note: Konstruva is not a real product. This project was built only as a frontend landing page (no backend functionality).*
 
 ---
 
